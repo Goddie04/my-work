@@ -1,0 +1,110 @@
+.title {
+    color: orange;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 50px;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+.head {
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: black;
+
+}
+
+.fp {
+    color: coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+    background-color: black;
+}
+
+.About {
+    color: coral;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    background-color: black;
+}
+
+.list {
+    color: orange;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 800px;
+    background-color: black;
+
+
+}
+
+.buto {
+    color: orange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+    margin-left: 800px;
+    background-color: black;
+}
+
+.button {
+    padding-top: 50px;
+    float: centre;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    width: auto;
+    text-align: center;
+    background-color: black;
+}
+
+.button a {
+    background-color: orange;
+    color: white;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    border-radius: 2em;
+    padding: 18px 50px 18px 50px;
+    margin-left: 500px;
+}
+
+.con {
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+
+    margin-left: 400px;
+    margin-top: 100px;
+    background-color: black;
+}
+
+.foot {
+    color: orange;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    padding-left: 10px;
+    font-size: large;
+    background-color: coral;
+}
+
+.copy {
+    font-size: large;
+    float: right;
+    margin-bottom: 30px;
+    width: auto;
+    background-color: black;
+}
+
+.pics {
+    margin-left: 50px;
+
+
+}
